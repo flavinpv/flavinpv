@@ -2,8 +2,7 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name+is+Flavio+Dos+Santos+Adriano;I+study+systems+Analysys+and+development+at+UNINTER;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<hr><img align="right" width="150" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
-
+<hr>
 
 <!--
 **flavinpv/flavinpv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
