@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   <a href="https://github.com/flavinpv">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=flavinpv&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavinpv&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="180em" align="center" max-width="49%" src="https://github-readme-stats.vercel.app/api?username=flavinpv&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" align="center" max-width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavinpv&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   
   <div style="display: inline_block"><br>
