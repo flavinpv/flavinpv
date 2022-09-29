@@ -16,17 +16,13 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/flavinpv">
-  <img height="180em" align="center" max-width="49%" src="https://github-readme-stats.vercel.app/api?username=flavinpv&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
-  <img height="180em" align="center" max-width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavinpv&layout=compact&langs_count=7&theme=swift"/>
-</div>
+  <img height="180rem" align="center" max-width="49%" src="https://github-readme-stats.vercel.app/api?username=flavinpv&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
+  <img height="180rem" align="center" max-width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavinpv&layout=compact&langs_count=7&theme=swift"/>
+  
+
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="fravon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="fravon-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="fravon-ANGULAR" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
 
-  <img align="center" alt="fravon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="fravon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="fravon-pic" height="150" style="border-radius:50%;"  src="https://media.discordapp.net/attachments/1022567703204069378/1025028607892004944/resz.png">
   
 
@@ -36,12 +32,31 @@ Here are some ideas to get you started:
   
 
   <div> 
+  
 
   <a href="https://instagram.com/flavio_adrianoo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:flavioticontato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/flavioadriano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![snake gif](https://github.com/flavinpv/flavinpv/blob/output/github-contribution-grid-snake.svg)
- 
+  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=flavinpv&bg_color=0d1117&color=e7d8d0&line=f2f2f2&point=f5faf7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer"/>
+
+### Hard skills:
+![JavaScript](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-html-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+
+
+### Other Knowledge:
+![GIT](https://img.shields.io/badge/-git-0D1117?style=for-the-badge&logo=git&logoColor=purple&labelColor=0D1117)&nbsp; 
+![Bootstrap](https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
+
+  
+### Studying in this moment:
+![ANGULAR](https://img.shields.io/badge/-angular-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117&textColor=0D1117)&nbsp;
+![TYPESCRIPT](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f7f7f7&height=120&section=footer"/>
