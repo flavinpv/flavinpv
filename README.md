@@ -1,4 +1,9 @@
-### Olá, Eu sou o Flávio, sou Front-End e este é o meu git!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f7f7f7&height=160&section=header"/>
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name+is+Flavio+Dos+Santos+Adriano;I+study+systems+Analysys+and+development+at+UNINTER;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+<hr><img align="right" width="150" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
+
 
 <!--
 **flavinpv/flavinpv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,6 +14,7 @@ Here are some ideas to get you started:
 - 🌱 Estudando typescript e Angular
 - 📫 How to reach me: flavioticontato@gmail.com
 -->
+
 <div align="center">
   <a href="https://github.com/flavinpv">
   <img height="180em" align="center" max-width="49%" src="https://github-readme-stats.vercel.app/api?username=flavinpv&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
@@ -27,9 +33,9 @@ Here are some ideas to get you started:
 
   
 </div>
+   <hr>
   
-  ##
-  
+
   <div> 
 
   <a href="https://instagram.com/flavio_adrianoo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -39,3 +45,4 @@ Here are some ideas to get you started:
   ![snake gif](https://github.com/flavinpv/flavinpv/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer"/>
