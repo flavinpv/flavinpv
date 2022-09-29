@@ -22,8 +22,9 @@ Here are some ideas to get you started:
 
   <img align="center" alt="fravon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="fravon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="fravon-pic" height="150" style="border-radius:50px;"  src="https://cdn.discordapp.com/attachments/1022567703204069378/1022568210370932766/icon2.png">
-    
+  <img align="right" alt="fravon-pic" height="150" style="border-radius:50px;"  src="https://media.discordapp.net/attachments/1022567703204069378/1022885928731156570/cartoon.png">
+
+  
 </div>
   
   ##
