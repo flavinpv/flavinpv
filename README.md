@@ -3,6 +3,25 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name+is+Flavio+Dos+Santos+Adriano;I+study+systems+Analysys+and+development+at+UNINTER;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <hr>
+<div align="center">
+ 
+### Hard skills:
+![JavaScript](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-html-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+
+
+### Other Knowledge:
+![GIT](https://img.shields.io/badge/-git-0D1117?style=for-the-badge&logo=git&logoColor=purple&labelColor=0D1117)&nbsp; 
+![Bootstrap](https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
+
+  
+### Studying in this moment:
+![ANGULAR](https://img.shields.io/badge/-angular-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117&textColor=0D1117)&nbsp;
+![TYPESCRIPT](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
+</div>
 
 <!--
 **flavinpv/flavinpv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -41,22 +60,6 @@ Here are some ideas to get you started:
   [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=flavinpv&bg_color=0d1117&color=e7d8d0&line=f2f2f2&point=f5faf7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 </div>
 
-### Hard skills:
-![JavaScript](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/-html-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-
-
-
-### Other Knowledge:
-![GIT](https://img.shields.io/badge/-git-0D1117?style=for-the-badge&logo=git&logoColor=purple&labelColor=0D1117)&nbsp; 
-![Bootstrap](https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-
-  
-### Studying in this moment:
-![ANGULAR](https://img.shields.io/badge/-angular-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117&textColor=0D1117)&nbsp;
-![TYPESCRIPT](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f7f7f7&height=120&section=footer"/>
