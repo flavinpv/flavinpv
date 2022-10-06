@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/flavinpv">
-  <img height="180rem" align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=flavinpv&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
-  <img height="180rem" align="center" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavinpv&layout=compact&langs_count=7&theme=swift"/>
+  <img height="175em" align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=flavinpv&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
+  <img height="175em" align="center" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavinpv&layout=compact&langs_count=7&theme=swift"/>
   
 
   
@@ -56,8 +56,6 @@ Here are some ideas to get you started:
   <a href="https://instagram.com/flavio_adrianoo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:flavioticontato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/flavioadriano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=flavinpv&bg_color=0d1117&color=e7d8d0&line=f2f2f2&point=f5faf7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 </div>
 
 
