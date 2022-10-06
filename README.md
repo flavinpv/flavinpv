@@ -1,37 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f7f7f7&height=160&section=header"/>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name+is+Flavio+Dos+Santos+Adriano;I+study+systems+Analysys+and+development+at+UNINTER;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1200&lines=Olá+Me+chamo+Flavio+Dos+Santos+Adriano;Estudo+Análise+e+desenvolvimento+de+sistemas+na+UNINTER;Obrigado+Pela+visita!+:%29)](https://git.io/typing-svg)
 
 <hr>
-<div align="center">
- 
-### Hard skills:
-![JavaScript](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/-html-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-
-
-
-### Other Knowledge:
-![GIT](https://img.shields.io/badge/-git-0D1117?style=for-the-badge&logo=git&logoColor=purple&labelColor=0D1117)&nbsp; 
-![Bootstrap](https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-
-  
-### Studying in this moment:
-![ANGULAR](https://img.shields.io/badge/-angular-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117&textColor=0D1117)&nbsp;
-![TYPESCRIPT](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
-</div>
-
-<!--
-**flavinpv/flavinpv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 atualmente Estou cursando Ánalíse e desenvolvimento de sistemas
-- 🌱 Estudando typescript e Angular
-- 📫 How to reach me: flavioticontato@gmail.com
--->
 
 <div align="center">
   <a href="https://github.com/flavinpv">
@@ -40,23 +11,51 @@ Here are some ideas to get you started:
   
 
   
-  <div style="display: inline_block"><br>
 
-  <img align="right" alt="fravon-pic" height="150" style="border-radius:50%;"  src="https://media.discordapp.net/attachments/1022567703204069378/1025028607892004944/resz.png">
-  
-
-  
-</div>
    <hr>
   
 
   <div> 
+<div align="center">
+ 
+### Habilidades:
+![JavaScript](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-html-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+   <hr>
+
+
+### Outros:
+![GIT](https://img.shields.io/badge/-git-0D1117?style=for-the-badge&logo=git&logoColor=purple&labelColor=0D1117)&nbsp; 
+     <hr>
+
+### Estudando:
+![ANGULAR](https://img.shields.io/badge/-angular-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117&textColor=0D1117)&nbsp;
+![TYPESCRIPT](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
+</div>
+   <hr>
+
+<!--
+**flavinpv/flavinpv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+ 🔭 atualmente Estou cursando Ánalíse e desenvolvimento de sistemas
+ 🌱 Estudando typescript e Angular
+ 📫 How to reach me: flavioticontato@gmail.com
+-->
+
+
   
 
-  <a href="https://instagram.com/flavio_adrianoo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+### Contato :
+
   <a href = "mailto:flavioticontato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/flavioadriano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/flavioadriano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="https://instagram.com/flavio_adrianoo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+
 
 
 
