@@ -39,11 +39,6 @@
 
 Here are some ideas to get you started:
 
- 🔭 atualmente Estou cursando Ánalíse e desenvolvimento de sistemas
- 🌱 Estudando typescript e Angular
- 📫 How to reach me: flavioticontato@gmail.com
--->
-
 
   
 
