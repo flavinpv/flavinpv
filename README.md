@@ -17,26 +17,41 @@
   <div> 
 <div align="center">
  
-### Habilidades:
+<h2 align="center">Linguagens e Ferramentas</h2>
+ 
+### Front-end:
  
  
  
+![Angular]()
+![Typescript]()
+![HTML]()
+![CSS]()
+![JavaScript]()
  
+### Back-end:
+![NodeJS]()
+![Typescript]()
+![Express]()
+![Typeorm]()
+
+ ### Bando de Dados
+  
+![Postgresql]()
+![Oracle]()
  
- 
-[![JavaScript](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
-![HTML](https://img.shields.io/badge/-html-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+### Ferramentas:
+![GIT](https://img.shields.io/badge/-git-0D1117?style=for-the-badge&logo=git&logoColor=purple&labelColor=0D1117)&nbsp;
+![VsCode]()
+![Postman]
+![Figma]()
+
+### Devops:
+![AWS]()
+![Docker]()
 
 
-### Outros:
-![GIT](https://img.shields.io/badge/-git-0D1117?style=for-the-badge&logo=git&logoColor=purple&labelColor=0D1117)&nbsp; 
  
-
-### Estudando:
-![ANGULAR](https://img.shields.io/badge/-angular-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117&textColor=0D1117)&nbsp;
-![TYPESCRIPT](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 </div>
 
 ### Entre em contato :
