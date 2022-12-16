@@ -26,10 +26,10 @@
 
 <div align="center">
   <a href="https://github.com/flavinpv">
-  <img height="165em" align="center"  src="https://github-readme-stats.vercel.app/api?icon_color=886ce4&title_color=886ce4&theme=transparent&text_color=ffffff&bg_color=00000000&hide_border=true&username=flavinpv&show_icons=true&theme=swift&include_all_commits=true&count_private=false"/>
+  <img height="165em" align="center"  src="https://github-readme-stats.vercel.app/api?icon_color=886ce4&title_color=886ce4&theme=transparent&text_color=ffffff&bg_color=00000000&hide_border=true&username=fravondev&show_icons=true&theme=swift&include_all_commits=true&count_private=false"/>
    
    
-  <img height="165em" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavinpv&layout=compact&text_color=ffffff&title_color=886ce4&bg_color=00000000&hide_border=true&langs_count=7&theme=transparent"/>
+  <img height="165em" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fravondev&layout=compact&text_color=ffffff&title_color=886ce4&bg_color=00000000&hide_border=true&langs_count=7&theme=transparent"/>
   
 ***************
 
