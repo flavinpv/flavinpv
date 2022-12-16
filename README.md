@@ -7,6 +7,7 @@
 
 
 <div>
+ <img align="right" width=300px alt="notebook picture" src="https://user-images.githubusercontent.com/62142146/208130941-c4543e17-d067-48ea-bec2-f0bd8765470e.png">
 - Pode me chamar de Fravon ✌ <br>
 - Me aperfeiçoando cada dia um pouco mais com a programação <br>
 - Desenvolvedor FullStack<br>
@@ -16,8 +17,11 @@
 - Atualmente estudando Angular<br>
 - Participando do Bootcamp NTT DATA Diversidade em tech 
  <br>
+
+
 </div>
-  
+   <br>
+
 ***************
 
 <div align="center">
