@@ -10,7 +10,7 @@
  <img align="right" width=250px alt="notebook picture" src="https://user-images.githubusercontent.com/62142146/208130941-c4543e17-d067-48ea-bec2-f0bd8765470e.png">
 - Pode me chamar de Fravon ✌ <br>
 - Me aperfeiçoando cada dia um pouco mais com a programação <br>
-- Desenvolvedor FullStack<br>
+- Desenvolvedor web FullStack<br>
 - Um pézinho em UX/UI design haha <br>
 - Adoro animes, programação e design <br>
 - Amo tecnologia <br>
