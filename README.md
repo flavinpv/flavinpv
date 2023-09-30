@@ -12,7 +12,7 @@
  - Desenvolvedor web FullStack<br>
 - Me aperfeiçoando cada dia um pouco mais com a programação <br>
 - Amo tecnologia <br>
-- Atualmente estudando React e NestJs<br>
+- Atualmente estudando Java e Angular<br>
 - Um pézinho a mais no Backend <br>
 - Adoro animes, programação e design <br>
 - Participando do Bootcamp Santander Bootcamp 2023 - Fullstack Java+Angular
