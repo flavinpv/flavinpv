@@ -14,7 +14,7 @@
 - Amo tecnologia <br>
 - Atualmente estudando React e NestJs<br>
 - Um pézinho a mais no Backend <br>
-- Adoro animes, programação e design <br>>
+- Adoro animes, programação e design <br>
 - Participando do Bootcamp Santander Bootcamp 2023 - Fullstack Java+Angular
  <br>
 
