@@ -12,9 +12,9 @@
  - Desenvolvedor web FullStack<br>
 - Me aperfeiçoando cada dia um pouco mais com a programação <br>
 - Amo tecnologia <br>
-- Atualmente estudando Java e Angular<br>
+- Atualmente me aperfeiçoando em React e Nest<br>
 - Um pézinho a mais no Backend <br>
-- Adoro animes, programação e design <br>
+- Adoro programação, animes e design <br>
 - Participando do Bootcamp Santander Bootcamp 2023 - Fullstack Java+Angular
  <br>
 
@@ -43,7 +43,6 @@
  
  
  
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=whit)&nbsp;
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -53,8 +52,6 @@
 ### Back-end:
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)&nbsp;
  
