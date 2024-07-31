@@ -3,7 +3,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1200&duration=5001&pause=1100&lines=Olá+Me+chamo+Flavio+Dos+Santos+Adriano;Estudo+Análise+e+desenvolvimento+de+sistemas+na+UNINTER;Fique+a+vontade!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1200&duration=5001&pause=1100&lines=Olá+Me+chamo+Flavio+Adriano;Estudo+Análise+e+desenvolvimento+de+sistemas+na+UNINTER;Fique+a+vontade!+:%29)](https://git.io/typing-svg)
 
 
 <div>
